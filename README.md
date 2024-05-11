@@ -22,4 +22,7 @@ As an intern, I have undertaken the task of developing a registration form to si
 4. **Responsive Design**: Develop a responsive layout to ensure compatibility across devices.
 5. **Error Handling**: Implement error handling mechanisms for smoother user experience.
 
-## The End ##
+
+
+
+                                                                 ## The End ##

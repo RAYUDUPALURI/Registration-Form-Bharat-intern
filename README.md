@@ -15,13 +15,14 @@ As an intern, I have undertaken the task of developing a registration form to si
 
   - **CSS**: Styling the form to enhance user experience.
 
-  ![Screenshot 2024-05-11 190010](https://github.com/RAYUDUPALURI/Registration-Form-Bharat-intern/assets/152466129/ecd03464-a9f0-4afc-82fc-5aac73b6e0ea)
+  ![Screenshot 2024-05-11 190025](https://github.com/RAYUDUPALURI/Registration-Form-Bharat-intern/assets/152466129/012fc530-31a5-45ef-93bf-3b53c178baa9)
 
 - **Node.js**: Writing server-side scripts to handle form submissions and interactions.
-![Screenshot 2024-05-11 190025](https://github.com/RAYUDUPALURI/Registration-Form-Bharat-intern/assets/152466129/012fc530-31a5-45ef-93bf-3b53c178baa9)
 
+ ![Screenshot 2024-05-11 190010](https://github.com/RAYUDUPALURI/Registration-Form-Bharat-intern/assets/152466129/ecd03464-a9f0-4afc-82fc-5aac73b6e0ea)
   
 - **MongoDB**: Storing and managing user data in a NoSQL database.
+  
 ![Screenshot 2024-05-11 190117](https://github.com/RAYUDUPALURI/Registration-Form-Bharat-intern/assets/152466129/7af91d95-0b96-45f6-a338-c45dc8b811f2)
 
 
